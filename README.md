@@ -10,9 +10,9 @@
 ```javascript
 const kuzey = {
   name: "k",
-  instagram: "@kuzeybetterthanyou$",
+  instagram: "@obsessedkuzey$",
   hobbies: ["Gaming", "Cinema", "Development"],
-  discord: "@drkuzey",
+  discord: "@obsessedkuzey",
   technologies: {
     backend: ["Python", "discord.py"],
     tools: ["VS Code", "Netlify"]
